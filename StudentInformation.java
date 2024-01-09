@@ -1,7 +1,7 @@
-public class student
+public class StudentInformation
 {
         public static void main(String args[]){
-                printstudentinfo();
+                printStudentinfo();
         }
         private static void printstudentinfo(){
                 String collegename="aits";
